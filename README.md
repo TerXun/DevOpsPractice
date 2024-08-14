@@ -1,0 +1,2 @@
+# DevOpsPractice
+Nizul weekly assignments
