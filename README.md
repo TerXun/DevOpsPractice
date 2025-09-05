@@ -1,2 +1,2 @@
 # DevOpsPractice
-Nizul weekly assignments
+Test project for DevOps
